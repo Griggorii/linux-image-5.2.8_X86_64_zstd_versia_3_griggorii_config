@@ -1,6 +1,8 @@
 # linux-image-5.2.8_X86_64_zstd_versia_3_griggorii_config
 linux kernel deb X86_64 zstd ubuntu minimum size
 
+Внимание в этом конфиге нет поддержки udf для dvd дисков вышло новое ядро тут эта поддержка добавлена https://github.com/Griggorii/linux-image-5.2.8_X86_64_zstd_versia_4_griggorii_config
+
 Griggorii@gmail.com
 
 Сконфигурировал конфиг что бы ядро в деб формате весило не более 40 мегабайт и работало всё только что мне нужно , работа 
